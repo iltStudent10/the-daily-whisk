@@ -32,6 +32,7 @@ function HomePage() {
           <option value="snack">Snack</option>
         </select>
       </div>
+
       <ItemList recipes={filteredRecipes} />
     </Card>
   )
