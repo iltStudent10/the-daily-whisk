@@ -1,0 +1,69 @@
+[
+  {
+    "id": "r-1",
+    "title": "Lemon Ricotta Pancakes",
+    "summary": "Fluffy pancakes with bright lemon zest and creamy ricotta.",
+    "category": "breakfast",
+    "imageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93",
+    "ingredients": [
+      "1 cup flour",
+      "1 tsp baking powder",
+      "2 tbsp sugar",
+      "1 cup ricotta",
+      "2 eggs",
+      "1 lemon, zested",
+      "1/2 cup milk"
+    ],
+    "instructions": "Whisk dry ingredients. Mix wet ingredients separately, then combine gently. Cook on a lightly oiled skillet until golden on both sides.",
+    "createdAt": "2026-06-01T09:00:00.000Z"
+  },
+  {
+    "id": "r-2",
+    "title": "Herbed Tomato Pasta",
+    "summary": "Weeknight pasta with garlic, basil, and cherry tomatoes.",
+    "category": "dinner",
+    "imageUrl": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601",
+    "ingredients": [
+      "250g spaghetti",
+      "2 tbsp olive oil",
+      "3 garlic cloves",
+      "2 cups cherry tomatoes",
+      "Fresh basil",
+      "Salt and pepper"
+    ],
+    "instructions": "Boil pasta until al dente. Sauté garlic in olive oil, add tomatoes, then toss with pasta, basil, salt, and pepper.",
+    "createdAt": "2026-06-03T18:30:00.000Z"
+  },
+  {
+    "id": "r-3",
+    "title": "Crispy Chickpea Salad",
+    "summary": "A crunchy, protein-packed lunch bowl with lemon tahini dressing.",
+    "category": "lunch",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+    "ingredients": [
+      "1 can chickpeas",
+      "2 cups mixed greens",
+      "1 cucumber",
+      "1/2 red onion",
+      "2 tbsp tahini",
+      "1 lemon"
+    ],
+    "instructions": "Roast chickpeas until crisp. Whisk tahini with lemon juice and water. Assemble greens and vegetables, top with chickpeas and dressing.",
+    "createdAt": "2026-06-06T12:15:00.000Z"
+  },
+  {
+    "id": "r-4",
+    "title": "Berry Yogurt Parfait",
+    "summary": "Layered yogurt parfait with berries and toasted granola.",
+    "category": "dessert",
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+    "ingredients": [
+      "2 cups Greek yogurt",
+      "1 cup mixed berries",
+      "1/2 cup granola",
+      "1 tbsp honey"
+    ],
+    "instructions": "Layer yogurt, berries, and granola in glasses. Repeat layers and finish with a drizzle of honey.",
+    "createdAt": "2026-06-10T14:10:00.000Z"
+  }
+]
